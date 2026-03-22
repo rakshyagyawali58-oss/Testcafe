@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodeman": "^1.1.2",
+    "testcafe": "^3.7.4"
+  },
+  "devDependencies": {
+
+  }
+}
