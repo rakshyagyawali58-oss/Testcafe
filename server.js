@@ -8,3 +8,6 @@ const port = 3000;
 app.listen(port, () => {
     console.log("server is running");
 });
+app.get('/', (req, res) => {
+    res.send("Api is running");
+});
