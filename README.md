@@ -1,0 +1,1 @@
+This is a simple node api test example. It uses express nodeman and test cafe for testing.
